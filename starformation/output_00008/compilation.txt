@@ -1,0 +1,5 @@
+ compile date = 10/01/21-22:04:12
+ patch dir    = ../patch/collapse
+ remote repo  = https://nvaytet@bitbucket.org/bcommerc/ramses_ism.git
+ local branch = ism
+ last commit  = 6b97c85e90a32ad87d197cc2d8bde7523895b3dd

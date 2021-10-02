@@ -1,0 +1,12 @@
+
+     seconds         %    STEP (rank=      1)
+       0.053       0.2    coarse levels           
+       0.641       3.0    refine                  
+       0.098       0.5    load balance            
+       0.634       2.9    courant                 
+       0.158       0.7    hydro - set unew        
+      17.541      81.6    hydro - godunov         
+       0.148       0.7    hydro - set uold        
+       0.349       1.6    hydro upload fine       
+       1.838       8.6    flag                    
+      21.496     100.0    TOTAL
