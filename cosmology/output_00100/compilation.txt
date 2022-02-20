@@ -1,0 +1,5 @@
+ compile date = 02/20/22-15:52:30
+ patch dir    = 
+ remote repo  = https://bitbucket.org/rteyssie/ramses.git
+ local branch = master
+ last commit  = b7e8ff7e1c33ca9e52d2c8c59741015c7c6f0890
